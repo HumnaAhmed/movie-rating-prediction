@@ -36,9 +36,3 @@ Scatter plot of Actual vs Predicted ratings
 
 <img width="481" height="407" alt="image" src="https://github.com/user-attachments/assets/236d62bc-8c77-42b6-ae9b-22fa74e453db" />
 
-
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python src/main.py
